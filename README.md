@@ -13,7 +13,7 @@ I'm an AI guy, generative AI, NLP, and transformer-based models are my thing. My
 ## Let's Connect
 I'm always eager to collaborate, learn, and share insights. Whether you're interested in discussing new ideas or potential collaborations, feel free to reach out.
 
-[LinkedIn](https://www.linkedin.com/in/let-me-try-to-fork-your-responsibilities) | [Email](mcs23026@iiitl.ac.in)
+[LinkedIn](https://www.linkedin.com/in/let-me-try-to-fork-your-responsibilities) | [Email](mailto:mcs23026@iiitl.ac.in)
 
 <!--
 **AnshumanAI/AnshumanAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
