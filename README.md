@@ -17,6 +17,57 @@ I'm an AI guy(wait !! don't cringe ,i actually am), generative AI, NLP, and tran
 ### 🔷 [URL Summarizer](https://urlsummarizer.onrender.com/)
 *A utility that takes any webpage URL and generates a concise summary.*
 
+
+
+##  Tech Stack
+
+### **Languages**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="40"/>
+</p>
+
+### **AI / ML / NLP**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/>
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/langchain-logo.png" width="40"/>
+</p>
+
+### **LLMs · RAG · Vector Search**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apachelucene.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/elasticsearch.svg" width="40"/>
+</p>
+
+### **Systems / Backend**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+</p>
+
+
+##  Focus Areas
+- LLM Security & Guardrails  
+- Retrieval-Augmented Generation (RAG)  
+- Multimodal AI (Vision + Language)  
+- Vector Databases & Embeddings  
+- AI + Blockchain (Integrity & Provenance)  
+
+
+##  GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnshumanAI&show_icons=true&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshumanAI&layout=compact&theme=github_dark)
+
+## Profile Metrics
+![Profile Views](https://komarev.com/ghpvc/?username=AnshumanAI&color=blue)
+
+
 ## Let's Connect
 I'm always eager to collaborate, learn, and share insights. Whether you're interested in discussing new ideas or potential collaborations, feel free to reach out.
 
