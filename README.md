@@ -26,14 +26,14 @@ I'm an AI guy(wait !! don't cringe ,i actually am), generative AI, NLP, and tran
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/master/icons/rust/rust-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="40"/>
 </p>
 
 ### **AI / ML / NLP**
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/>
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/langchain-logo.png" width="40"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/huggingface.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" width="40"/>
 </p>
 
 ### **LLMs · RAG · Vector Search**
@@ -61,7 +61,7 @@ I'm an AI guy(wait !! don't cringe ,i actually am), generative AI, NLP, and tran
 
 ##  GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnshumanAI&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnshumanAI&show_icons=true&theme=github_dark&cache_seconds=1800)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshumanAI&layout=compact&theme=github_dark)
 
 ## Profile Metrics
