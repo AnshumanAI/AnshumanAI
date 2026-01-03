@@ -17,7 +17,7 @@ I'm an AI guy(wait !! don't cringe ,i actually am), generative AI, NLP, and tran
 ### 🔷 [URL Summarizer](https://urlsummarizer.onrender.com/)
 *A utility that takes any webpage URL and generates a concise summary.*
 
-
+---
 
 ##  Tech Stack
 
@@ -26,21 +26,14 @@ I'm an AI guy(wait !! don't cringe ,i actually am), generative AI, NLP, and tran
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="40"/>
+  <img src="https://www.rust-lang.org/logos/rust-logo-512x512.png" width="40"/>
 </p>
 
 ### **AI / ML / NLP**
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/huggingface.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" width="40"/>
-</p>
-
-### **LLMs · RAG · Vector Search**
-<p align="left">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apachelucene.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/elasticsearch.svg" width="40"/>
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40"/>
+  <img src="https://avatars.githubusercontent.com/u/126733545?v=4" width="40"/>
 </p>
 
 ### **Systems / Backend**
